@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+data/corpus/faiss_index.pkl
+data/logs/log.txt
+support_issues/output.csv
+.venv/
+env/
+venv/
+.DS_Store

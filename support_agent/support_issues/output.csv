@@ -1,0 +1,6 @@
+issue,subject,company,status,product_area,response,justification,request_type
+I can't access my HackerRank account. It says my account is suspended.,Account suspended,HackerRank,escalated,Unknown,We're escalating your case to a human agent due to a processing error.,LLM processing failed.,product_issue
+How do I reset my Claude password?,,Claude,escalated,Unknown,We're escalating your case to a human agent due to a processing error.,LLM processing failed.,product_issue
+My Visa card was stolen and there is an unauthorized charge.,Stolen card,Visa,escalated,Unknown,We're escalating your case to a human agent due to a processing error.,LLM processing failed.,product_issue
+What are the hackerrank assessment types?,,HackerRank,escalated,Unknown,We're escalating your case to a human agent due to a processing error.,LLM processing failed.,product_issue
+I want to know about Claude's privacy policy.,Privacy,Claude,escalated,Unknown,We're escalating your case to a human agent due to a processing error.,LLM processing failed.,product_issue

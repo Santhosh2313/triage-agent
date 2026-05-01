@@ -1,0 +1,521 @@
+=== TICKET #0 ===
+Company: HackerRank
+Subject: Account suspended
+Issue: I can't access my HackerRank account. It says my account is suspended.
+
+Retrieved Docs:
+  1. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+  2. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  3. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  4. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+  5. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #0 ===
+Company: HackerRank
+Subject: Account suspended
+Issue: I can't access my HackerRank account. It says my account is suspended.
+
+Retrieved Docs:
+  1. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+  2. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  3. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+  4. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  5. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #1 ===
+Company: Claude
+Subject: nan
+Issue: How do I reset my Claude password?
+
+Retrieved Docs:
+  1. [claude] Claude - https://support.claude.com/en/collections/4078531-claude
+  2. [claude] Team and Enterprise plans - https://support.claude.com/en/collections/9387370-team-and-enterprise-plans
+  3. [claude] Pro and Max plans - https://support.claude.com/en/collections/5953830-pro-and-max-plans
+  4. [claude] Privacy and legal - https://support.claude.com/en/collections/4078534-privacy-and-legal
+  5. [claude] Claude for Education - https://support.claude.com/en/collections/12630177-claude-for-education
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #2 ===
+Company: Visa
+Subject: Stolen card
+Issue: My Visa card was stolen and there is an unauthorized charge.
+
+Retrieved Docs:
+  1. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/travel-support.html
+  2. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/lost-stolen-card.html
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #3 ===
+Company: nan
+Subject: nan
+Issue: What are the hackerrank assessment types?
+
+Retrieved Docs:
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #4 ===
+Company: nan
+Subject: Privacy
+Issue: I want to know about Claude's privacy policy.
+
+Retrieved Docs:
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #0 ===
+Company: HackerRank
+Subject: Account suspended
+Issue: I can't access my HackerRank account. It says my account is suspended.
+
+Retrieved Docs:
+  1. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+  2. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  3. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+  4. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  5. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #1 ===
+Company: Claude
+Subject: nan
+Issue: How do I reset my Claude password?
+
+Retrieved Docs:
+  1. [claude] Claude - https://support.claude.com/en/collections/4078531-claude
+  2. [claude] Team and Enterprise plans - https://support.claude.com/en/collections/9387370-team-and-enterprise-plans
+  3. [claude] Pro and Max plans - https://support.claude.com/en/collections/5953830-pro-and-max-plans
+  4. [claude] Privacy and legal - https://support.claude.com/en/collections/4078534-privacy-and-legal
+  5. [claude] Claude for Education - https://support.claude.com/en/collections/12630177-claude-for-education
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #2 ===
+Company: Visa
+Subject: Stolen card
+Issue: My Visa card was stolen and there is an unauthorized charge.
+
+Retrieved Docs:
+  1. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/travel-support.html
+  2. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/lost-stolen-card.html
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #3 ===
+Company: HackerRank
+Subject: nan
+Issue: What are the hackerrank assessment types?
+
+Retrieved Docs:
+  1. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  2. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+  3. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  4. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+  5. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #4 ===
+Company: Claude
+Subject: Privacy
+Issue: I want to know about Claude's privacy policy.
+
+Retrieved Docs:
+  1. [claude] Claude - https://support.claude.com/en/collections/4078531-claude
+  2. [claude] Connectors - https://support.claude.com/en/collections/15399129-connectors
+  3. [claude] Privacy and legal - https://support.claude.com/en/collections/4078534-privacy-and-legal
+  4. [claude] Amazon Bedrock - https://support.claude.com/en/collections/4078537-amazon-bedrock
+  5. [claude] Claude API and Console - https://support.claude.com/en/collections/5370014-claude-api-and-console
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #0 ===
+Company: HackerRank
+Subject: Account suspended
+Issue: I can't access my HackerRank account. It says my account is suspended.
+
+Retrieved Docs:
+  1. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+  2. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  3. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  4. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+  5. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #1 ===
+Company: Claude
+Subject: nan
+Issue: How do I reset my Claude password?
+
+Retrieved Docs:
+  1. [claude] Claude Mobile apps - https://support.claude.com/en/collections/9387080-claude-mobile-apps
+  2. [claude] Claude Code - https://support.claude.com/en/collections/14445694-claude-code
+  3. [claude] Privacy and legal - https://support.claude.com/en/collections/4078534-privacy-and-legal
+  4. [claude] Claude Desktop - https://support.claude.com/en/collections/16163169-claude-desktop
+  5. [claude] Identity management (SSO, JIT, SCIM) - https://support.claude.com/en/collections/17270717-identity-management-sso-jit-scim
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #2 ===
+Company: Visa
+Subject: Stolen card
+Issue: My Visa card was stolen and there is an unauthorized charge.
+
+Retrieved Docs:
+  1. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/travel-support.html
+  2. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/lost-stolen-card.html
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #3 ===
+Company: HackerRank
+Subject: nan
+Issue: What are the hackerrank assessment types?
+
+Retrieved Docs:
+  1. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+  2. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  3. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  4. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+  5. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #4 ===
+Company: Claude
+Subject: Privacy
+Issue: I want to know about Claude's privacy policy.
+
+Retrieved Docs:
+  1. [claude] Claude for Education - https://support.claude.com/en/collections/12630177-claude-for-education
+  2. [claude] Safeguards - https://support.claude.com/en/collections/4078535-safeguards
+  3. [claude] Claude - https://support.claude.com/en/collections/4078531-claude
+  4. [claude] Team and Enterprise plans - https://support.claude.com/en/collections/9387370-team-and-enterprise-plans
+  5. [claude] Claude Code - https://support.claude.com/en/collections/14445694-claude-code
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #0 ===
+Company: HackerRank
+Subject: Account suspended
+Issue: I can't access my HackerRank account. It says my account is suspended.
+
+Retrieved Docs:
+  1. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+  2. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  3. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  4. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+  5. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #1 ===
+Company: Claude
+Subject: nan
+Issue: How do I reset my Claude password?
+
+Retrieved Docs:
+  1. [claude] Claude Mobile apps - https://support.claude.com/en/collections/9387080-claude-mobile-apps
+  2. [claude] Claude Code - https://support.claude.com/en/collections/14445694-claude-code
+  3. [claude] Privacy and legal - https://support.claude.com/en/collections/4078534-privacy-and-legal
+  4. [claude] Claude Desktop - https://support.claude.com/en/collections/16163169-claude-desktop
+  5. [claude] Identity management (SSO, JIT, SCIM) - https://support.claude.com/en/collections/17270717-identity-management-sso-jit-scim
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #2 ===
+Company: Visa
+Subject: Stolen card
+Issue: My Visa card was stolen and there is an unauthorized charge.
+
+Retrieved Docs:
+  1. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/travel-support.html
+  2. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/lost-stolen-card.html
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #3 ===
+Company: HackerRank
+Subject: nan
+Issue: What are the hackerrank assessment types?
+
+Retrieved Docs:
+  1. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+  2. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  3. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  4. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+  5. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #4 ===
+Company: Claude
+Subject: Privacy
+Issue: I want to know about Claude's privacy policy.
+
+Retrieved Docs:
+  1. [claude] Claude for Education - https://support.claude.com/en/collections/12630177-claude-for-education
+  2. [claude] Safeguards - https://support.claude.com/en/collections/4078535-safeguards
+  3. [claude] Claude - https://support.claude.com/en/collections/4078531-claude
+  4. [claude] Team and Enterprise plans - https://support.claude.com/en/collections/9387370-team-and-enterprise-plans
+  5. [claude] Claude Code - https://support.claude.com/en/collections/14445694-claude-code
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #0 ===
+Company: HackerRank
+Subject: Account suspended
+Issue: I can't access my HackerRank account. It says my account is suspended.
+
+Retrieved Docs:
+  1. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+  2. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+  3. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  4. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  5. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #1 ===
+Company: Claude
+Subject: nan
+Issue: How do I reset my Claude password?
+
+Retrieved Docs:
+  1. [claude] How to get support - https://support.claude.com/en/articles/9015913-how-to-get-support
+  2. [claude] Safeguards - https://support.claude.com/en/collections/4078535-safeguards
+  3. [claude] Claude for Nonprofits - https://support.claude.com/en/collections/17047088-claude-for-nonprofits
+  4. [claude] Team and Enterprise plans - https://support.claude.com/en/collections/9387370-team-and-enterprise-plans
+  5. [claude] Release notes - https://support.claude.com/en/articles/12138966-release-notes
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #2 ===
+Company: Visa
+Subject: Stolen card
+Issue: My Visa card was stolen and there is an unauthorized charge.
+
+Retrieved Docs:
+  1. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/lost-stolen-card.html
+  2. [visa] The magic of travel begins with a single tap. - https://www.visa.co.in/support/consumer/travel-support.html
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #3 ===
+Company: HackerRank
+Subject: nan
+Issue: What are the hackerrank assessment types?
+
+Retrieved Docs:
+  1. [hackerrank] Safelist/Allowlist URLs and IP Addresses for HackerRank - https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank
+  2. [hackerrank] HackerRank Maintenance Window Notification - https://support.hackerrank.com/articles/2086891729-hackerrank-maintenance-window-notification
+  3. [hackerrank] Update or Reset Password - https://support.hackerrank.com/articles/7046498277-update-or-reset-password
+  4. [hackerrank] Impersonation Detection - https://support.hackerrank.com/articles/7825915809-impersonation-detection
+  5. [hackerrank] Execution Environment - https://support.hackerrank.com/articles/6693750503-execution-environment
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
+=== TICKET #4 ===
+Company: Claude
+Subject: Privacy
+Issue: I want to know about Claude's privacy policy.
+
+Retrieved Docs:
+  1. [claude] Search for answers or browse by topic - https://support.claude.com#main-content
+  2. [claude] Claude Mobile apps - https://support.claude.com/en/collections/9387080-claude-mobile-apps
+  3. [claude] Claude in Chrome - https://support.claude.com/en/collections/18031491-claude-in-chrome
+  4. [claude] Search for answers or browse by topic - https://support.claude.com/en/
+  5. [claude] Safeguards - https://support.claude.com/en/collections/4078535-safeguards
+
+Agent Decision:
+  Status: escalated
+  Request Type: product_issue
+  Product Area: Unknown
+  Response: We're escalating your case to a human agent due to a processing error.
+  Justification: LLM processing failed.
+
+==============================
+
